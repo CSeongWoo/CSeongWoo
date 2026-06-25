@@ -18,7 +18,4 @@
 <h3>📊 Analyst & Algorithm Status</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjddn2517)](https://solved.ac/tjddn2517)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&section=footer" width="100%"/>
-
 </div>
