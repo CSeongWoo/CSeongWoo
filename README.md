@@ -12,9 +12,9 @@
 
 ### 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=CSeongWoo&show_icons=true&theme=radical&hide_border=true" alt="CSeongWoo's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CSeongWoo&show_icons=true&theme=radical&hide_border=true&cache_buster=1" alt="CSeongWoo's GitHub stats" height="150" />
 <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSeongWoo&layout=compact&theme=radical&hide_border=true" alt="CSeongWoo's Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSeongWoo&layout=compact&theme=radical&hide_border=true&cache_buster=1" alt="CSeongWoo's Top Langs" height="150" />
 <br/>
 
 <h3>📊 Analyst & Algorithm Status</h3>
